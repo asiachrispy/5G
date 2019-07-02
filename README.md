@@ -1,5 +1,9 @@
 # 5G
 
+## 基础理论   
+[三角函数公式\_百度百科](https://baike.baidu.com/item/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%AC%E5%BC%8F)
+
+## 评论
 [5G Deliver the extraordinary | Nokia Networks](https://www.nokia.com/networks/5g/?did=d0000000019p)  
 [Microsoft Word - 20190104](http://www.ssif.com.hk/main_hk/a/20190104.pdf)  
 [全球争抢“5G”制高点：发展趋势及最新进展](https://www.ofweek.com/topic/2017/fiber/5G/)

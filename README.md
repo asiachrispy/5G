@@ -4,6 +4,8 @@
 [Microsoft Word - 20190104](http://www.ssif.com.hk/main_hk/a/20190104.pdf)  
 [全球争抢“5G”制高点：发展趋势及最新进展](https://www.ofweek.com/topic/2017/fiber/5G/)
 
+[有史以来最强的5G入门科普！ - 知乎](https://zhuanlan.zhihu.com/p/40671102)
+[三星、高通、华为、诺基亚 谁是全球5G技术顶级玩家？\_凤凰网科技](https://tech.ifeng.com/c/7lmOH4Zrhrs)
 
 ## 书单
 

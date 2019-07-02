@@ -5,7 +5,10 @@
 [全球争抢“5G”制高点：发展趋势及最新进展](https://www.ofweek.com/topic/2017/fiber/5G/)
 
 [有史以来最强的5G入门科普！ - 知乎](https://zhuanlan.zhihu.com/p/40671102)
+
 [三星、高通、华为、诺基亚 谁是全球5G技术顶级玩家？\_凤凰网科技](https://tech.ifeng.com/c/7lmOH4Zrhrs)
+
+[5G 时代，机遇在哪里？ - 知乎 Live](https://www.zhihu.com/lives/1119972007713935360)
 
 ## 书单
 

@@ -19,3 +19,14 @@
 [国之重器出版工程 5G移动通信 面向全连接的世界 (豆瓣)](https://book.douban.com/subject/33375290/)
 
 [通信之道——从微积分到5G (豆瓣)](https://book.douban.com/subject/26743649/)
+
+## 视频
+[5G的往事今生——最好的5G科普讲座\_科技奇趣\_腾讯视频](https://v.qq.com/x/cover/j1fsdfa3qdqmn4m/r0845c00rwn.html)
+
+[5G通信技术系列课程 - 网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1005710008)
+
+[5G网络-科技-腾讯视频](https://v.qq.com/detail/z/zdw184jamu748dv.html)
+
+
+## changelog
+20190713 chrispy newadd

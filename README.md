@@ -37,5 +37,9 @@
 [taosdata/TDengine](https://github.com/taosdata/TDengine)  
 [涛思数据 | 专为物联网优化设计的大数据平台](https://www.taosdata.com/cn/)  
 [物联网云平台](http://www.yunpaitech.com/cms/12.html)  
+
+[边缘计算深度调研 - 简书](https://www.jianshu.com/p/d311a1bc18aa)
+
+
 ## changelog
 20190713 chrispy newadd

@@ -32,6 +32,10 @@
 
 [5G网络-科技-腾讯视频](https://v.qq.com/detail/z/zdw184jamu748dv.html)
 
+## 数据平台
+[物联网平台](http://www.zhiyuiot.com:9000/Home/product2)  
+[taosdata/TDengine](https://github.com/taosdata/TDengine)  
+[涛思数据 | 专为物联网优化设计的大数据平台](https://www.taosdata.com/cn/)
 
 ## changelog
 20190713 chrispy newadd

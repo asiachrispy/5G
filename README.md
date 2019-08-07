@@ -16,6 +16,8 @@
 
 [5G 简单入门](https://mp.weixin.qq.com/s?__biz=MzI1NTA0MDUyMA==&mid=2456656690&idx=1&sn=836e78b96b9740a94240ce6a99d1e4b1&chksm=fda53655cad2bf43cc3a78073abc368aeaa15fc5520ac3382ef62d44b2fa36381e2c2de2f248&scene=21#wechat_redirect)
 
+5G已在路上，这20个行业可能最先受益](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247489324&idx=1&sn=1a5326a586f1b3fd6f6bc03f04bf57a0&scene=21#wechat_redirect)
+
 ## 书单
 
 [国之重器出版工程 5G移动通信 面向全连接的世界 (豆瓣)](https://book.douban.com/subject/33375290/)

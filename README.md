@@ -18,6 +18,8 @@
 
 [5G已在路上，这20个行业可能最先受益](https://mp.weixin.qq.com/s?__biz=MzIxMDQzOTUyMw==&mid=2247489324&idx=1&sn=1a5326a586f1b3fd6f6bc03f04bf57a0&scene=21#wechat_redirect)
 
+[人工智能陷入耗电黑洞，它会成为翻版的比特币挖矿吗？](https://mp.weixin.qq.com/s/oR10LALSoCz5XJrMdsOMtA)
+
 ## 书单
 
 [国之重器出版工程 5G移动通信 面向全连接的世界 (豆瓣)](https://book.douban.com/subject/33375290/)
